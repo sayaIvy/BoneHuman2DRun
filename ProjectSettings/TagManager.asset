@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ground
   layers:
   - Default
   - TransparentFX
@@ -43,4 +44,7 @@ TagManager:
     locked: 0
   - name: LevelObjects
     uniqueID: 3332124463
+    locked: 0
+  - name: Characters
+    uniqueID: 2833653661
     locked: 0
